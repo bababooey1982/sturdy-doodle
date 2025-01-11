@@ -1,0 +1,15 @@
+site-packages/diff_match_patch-20200713.dist-info/INSTALLER
+site-packages/diff_match_patch-20200713.dist-info/LICENSE
+site-packages/diff_match_patch-20200713.dist-info/METADATA
+site-packages/diff_match_patch-20200713.dist-info/RECORD
+site-packages/diff_match_patch-20200713.dist-info/REQUESTED
+site-packages/diff_match_patch-20200713.dist-info/WHEEL
+site-packages/diff_match_patch-20200713.dist-info/direct_url.json
+site-packages/diff_match_patch-20200713.dist-info/top_level.txt
+site-packages/diff_match_patch/__init__.py
+site-packages/diff_match_patch/diff_match_patch.py
+site-packages/diff_match_patch/diff_match_patch_py2.py
+site-packages/diff_match_patch/tests/__init__.py
+site-packages/diff_match_patch/tests/diff_match_patch_test.py
+site-packages/diff_match_patch/tests/diff_match_patch_test_py2.py
+site-packages/diff_match_patch/tests/speedtest.py
